@@ -1,0 +1,18 @@
+export { default as Navbar } from '../components/Navbar/Navbar';
+export { default as Sidebar } from '../components/Sidebar/Sidebar';
+export { default as Hero } from '../components/Hero/Hero';
+export { default as Gallery } from '../components/Gallery/Gallery';
+export { default as ArtAwards } from '../components/ArtAwards/ArtAwards';
+export { default as News } from '../components/News/News';
+export { default as Mission } from '../components/Mission/Mission';
+export { default as Artist } from '../components/Artist/Artist';
+export { default as Booking } from '../components/Booking/Booking';
+export { default as Foundation } from '../components/Foundation/Foundation';
+export { default as Program } from '../components/Programs/Program';
+export { default as Testimonials } from '../components/Testimonials/Testimonials';
+export { default as Events } from '../components/Events/Events';
+export {default as Shop} from '../components/Shop/Shop';
+export {default as Contact} from '../components/Contact/Contact';
+export { default as Footer } from '../components/Footer/Footer'; 
+export {default as ScrollToTop} from '../components/ScrollToTop/ScrollToTop';
+export{default as ScrollOnTopReload} from '../components/ScrollOnTopReload/ScrollOnTopReload';
